@@ -1,5 +1,5 @@
 # <p align="center"><b>EZeePZ</b>
-This repo is to show what a detailed README should include. This README is written and styled in Markdown.  You can edit this eitehr in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.</p>
+An app developed to make finding a public restroom near you that much easier. We hope that this will allow people of all walks of life to find suitable public restrooms near them. </p>
 
 <!--
 *** Reuse this template to avoid retyping. Do a search and replace for the following that relate to you:
@@ -14,37 +14,32 @@ This repo is to show what a detailed README should include. This README is writt
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use. Your editor may have an extension availabale. VSCode does for sure. You can add badges like ordinary snippets by pressing a few keys.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Thank you for stopping by!
+# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{DomWat}/count.svg) Thank you for stopping by!
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/nathannosudo/readme-template-for-projects">
+  <a href="https://github.com/cristinahdz29/frontend_project.git">
     <img src="dcICON.png">
   </a>
 
-  <h3 align="center">DigitalCrafts Project</h3><!-- YOUR_TITLE-->
+  <h3 align="center">EZeePZ Project</h3><!-- YOUR_TITLE-->
     
   <p align="center"><!-- YOUR_SHORT_DESCRIPTION -->
-**DigitalCrafts Houston Full-Stack Developer** Description of what the repo contains ie. "Immersive program week 4 course-work. This repo contains primarly JavaScript related coursework  including; assignments, practice,activities and projects.  During week 4 we covered JavaScript, Front-end, Validation, and manipulating the DOM."
+**DigitalCrafts Houston and Atlanta Full-Stack Developers** This is a project designed by four members of the DigitalCraft immersive fullstack program. This app is a front-end developed project that uses information gathered from an api and displayed to the users to help them find public bathrooms near them. As well as to provide other information about the location and appearance of the bathrooms and their accessibility. 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cristinahdz29/frontend_project.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/cristinahdz29/frontend_project.git">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/cristinahdz29/frontend_project.git">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/cristinahdz29/frontend_project.git">Request Feature</a>
   </p>
 </p>
 
@@ -73,21 +68,23 @@ This repo is to show what a detailed README should include. This README is writt
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-I put this together to show what a detailed README is like. This README is written and styled in Markdown.  You can edit this eitehr in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.
+We created this site and app in order to provide users with a more efficient way of finding public bathrooms near them. We tried to make this an inclusive project and thanks to the api we are able to provide users with multiple resources about the public restooms. 
 
-Why doing this detailed README is important:
-* Recruiters who looks at your project might not know how to reade code.
-* You an reuse it over and over again. Save time and work on your projects more by just editing this to match your next project!
-* You should element DRY principles to the rest of your life :smile:
+Why an app such as this can be helpfull:
+* In some areas it can be difficult to know where the closest restrooms are, especially if you're a tourist or are not used to the area.
+* The information provided can be helpful in finding out if the closest restrooms are accessible to the disabled, have changing stations, or are unisex bathrooms.
+* This will be especially helful for travellers and will allow people from all walks of life to find accessible bathrooms.
 
 
-Here's a blank template to get started:
+<!--Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+`github_username`, `repo_name`, `twitter_handle`, `email`-->
 
 
 ### Built With
-* [JavaScript](https://javascript.com)
+* JavaScript
+* Html5
+* CSS3
 <!-- 
 * []() not the above example of how to link in Markdown.
 -->
@@ -166,9 +163,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Dominic Waters - (dominicwaters12@gmail.com) - email   (https://github.com/DomWat) - github <br>
+Cristina Hernandez - (cristinahdz29@gmail.com) - email (https://github.com/cristinahdz29) - github<br>
+Shannel Philp - (shannel.philp@yahoo.com) - email (https://github.com/S-Philp) - github<br>
+Will Foody - (foodyw@gmail.com) - email (https://github.com/wfoody) - github<br>
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/cristinahdz29/frontend_project.git](https://github.com/github_username/repo_name)
 
 
 

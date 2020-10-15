@@ -128,7 +128,7 @@ _For more examples, please refer to the [Project-Demo](https://example.com)_
 
 ## Videos and Screenshots
 
-Display videos, gifs are the easiest. Also include screenshots of the project, diffrent features or what not.
+Here are some images of our code and our product. 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 ![dbzcode](https://user-images.githubusercontent.com/49554888/96146084-8b1cc300-0ecb-11eb-8025-1cb8b2e734f5.png)
 
@@ -141,22 +141,23 @@ Detail what you did as you do it. Add more info each time a feature is completed
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!--## Contributing -->
 
-Either provide a [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute or list them as such:
+<!--* Either provide a [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute or list them as such:-->
 
-1. Fork the Project
+<!--1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request -->
+
 
 
 
 <!-- LICENSE -->
-## License
+<!--## License-->
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<!-- Distributed under the MIT License. See `LICENSE` for more information.-->
 
 
 
@@ -174,14 +175,15 @@ Project Link: [https://github.com/cristinahdz29/frontend_project.git](https://gi
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
- 
-  - **Nathan Orris** - **The Certified** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)- **DiR at DigitalCrafts Houston** -
+ - Dominic Waters (https://github.com/DomWat) - github
+ - Will Foody (https://github.com/wfoody) - github
+ - Shannel Philp (https://github.com/S-Philp) - github
+ - Cristina Hernandez (https://github.com/cristinahdz29) - github
+  - Nathan Orris - **The Certified** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)- **DiR at DigitalCrafts Houston** -
     [NathanNoSudo](https://github.com/NathanNoSudo)
  - **Othneildrew**  -
     [OthneilDrew](https://github.com/othneildrew)
-* [someone awesome1]()
-* [someone awesome2]()
-* [someone awesome3]()
+
 
 
 
